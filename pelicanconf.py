@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 AUTHOR = u'rivenlogik'
-SITENAME = u'rivenlogik'
+SITENAME = u'RivenLogik'
 SITEURL = ''
 
 PATH = 'content'
@@ -35,3 +35,5 @@ DEFAULT_PAGINATION = 10
 #RELATIVE_URLS = True
 
 THEME = 'pelican-themes/bootstrap2-dark'
+
+OUTPUT_RETENTION = [".git"]
