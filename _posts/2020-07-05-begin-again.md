@@ -3,7 +3,8 @@ title: "Begin (Yet) Again"
 categories: personal
 layout: post
 ---
-I recently subscribed to (HackTheBox.eu)[https://hackthebox.eu] and I've been enjoying it a lot.
+
+I recently subscribed to [HackTheBox.eu](https://hackthebox.eu) and I've been enjoying it a lot.
 
 I decided to fire back up the blog.. this time with jekyll as means of organizing 
 my notes when doing writeups for the different boxes.  Pelican just didn't seem as supported anymore.
