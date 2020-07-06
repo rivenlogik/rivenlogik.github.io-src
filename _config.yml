@@ -1,0 +1,41 @@
+title: "Active Denial System"
+author: "wittr"
+description: ""
+permalink: /:categories/:year/:month/:day/:title:output_ext
+lang: "en"
+excerpt_separator: "\n\n\n"
+date_format: "%B %d, %Y"
+
+# Layout
+
+sidebar: false               # show a sidebar instead of the usual header
+show_excerpts: false         # show article excerpts on the home page
+show_related: true           # show the previous and next links after every post
+show_description: true       # show the site description in the sidebar
+show_title: true             # always keep the site title visible
+
+# Styling
+
+dark_header: true            # always keep the header dark
+minimal: false               # use simpler style
+
+# Menu
+
+navigation:
+  - {file: "index.html", icon: home}
+  - {file: "README.md", icon: address-card}
+  - {file: "subjects.md", icon: tags}
+  - {file: "archive.md", icon: archive}
+
+external:                    # see http://fontawesome.com/icons
+  - {title: Twitter, icon: twitter, url: "https://twitter.com/rivenlogik"}
+  - {title: Github, icon: github, url: "https://github.com/rivenlogik"}
+  - {title: HackTheBox, icon: cube, url: "https://www.hackthebox.eu/home/users/profile/33864"}
+  - {title: Subscribe, icon: rss, url: "/feed.xml"}
+
+comments:
+#  disqus_shortname: ""      # see https://disqus.com/
+#  isso_domain: ""           # see https://posativ.org/isso/
+
+plugins:
+ - jekyll-feed
