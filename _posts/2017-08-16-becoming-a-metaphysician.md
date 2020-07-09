@@ -2,6 +2,7 @@
 title:  "Becoming a Metaphysician"
 categories: music
 layout: post
+date: 2017-08-16 23:40 -0500
 ---
 
 ## Breathe out, Breathe in

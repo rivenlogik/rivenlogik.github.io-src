@@ -2,6 +2,7 @@
 title: "Begin (Yet) Again"
 categories: personal
 layout: post
+date: 2020-07-05 23:00:00 -0500
 ---
 
 I recently subscribed to [HackTheBox.eu](https://hackthebox.eu) and I've been enjoying it a lot.
