@@ -1,6 +1,8 @@
 ---
 title: "The Genesis"
-categories: [personal, music]
+categories:
+  - personal
+  - music
 layout: post
 date: 2017-08-01 22:00 -0500
 ---
