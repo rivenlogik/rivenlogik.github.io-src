@@ -8,7 +8,7 @@ date: 2020-07-20 23:21 -0500
 
 ## Summary
 
-Optium is a fairly straightforward easy rated Windows box.  It involves simple enumeration and exploitation via a readily available metasploit module for a foothold.  For privilege escalation, it requires enumeration of patch levels of the system to determine a relevant exploit for escalation.
+Optimum is a fairly straightforward easy rated Windows box.  It involves simple enumeration and exploitation via a readily available metasploit module for a foothold.  For privilege escalation, it requires enumeration of patch levels of the system to determine a relevant exploit for escalation.
 
 ## Walkthrough
 
