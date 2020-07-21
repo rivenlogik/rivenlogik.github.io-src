@@ -6,17 +6,17 @@ date: 2017-08-16 23:40 -0500
 ---
 
 ## Breathe out, Breathe in
-I really need to get around to typing up some notes I want to digitize from some recent events.  Particularly, beer making and homelab crap.  Time, truly the most precious commodity.    
 
-Maybe this weekend!   
+I really need to get around to typing up some notes I want to digitize from some recent events.  Particularly, beer making and homelab crap.  Time, truly the most precious commodity.
 
-I just had to post something quick about a new band I found named Junius.  
-I subscribe to [Decibel](https://www.decibelmagazine.com), which I recommend for anyone who has moved beyond the glory days that consisted
-of massive amounts of free time and very little responsibility.  Those days are behind me now for sure, and Decibel is my go-to for keeping up with the metal scene 
-other than a key friend who is still living his glory days.  
+Maybe this weekend!
 
-Decibel had a review for the new Junius album *Eternal Rituals for the Accretion of Light*.  I believe they gave it a 8 or 9 out of 10. The album is so damn good and 
-it's basically been on repeat for me the last month or so.  Highly recommend you click [here](https://www.youtube.com/watch?v=tv_yKPChhq4) and check out the song *Mass for Metaphysicians*. 
+I just had to post something quick about a new band I found named Junius.
+
+I subscribe to [Decibel](https://www.decibelmagazine.com), which I recommend for anyone who has moved beyond the glory days that consisted of massive amounts of free time and very little responsibility.  Those days are behind me now for sure, and Decibel is my go-to for keeping up with the metal scene other than a key friend who is still living his glory days.  
+
+Decibel had a review for the new Junius album *Eternal Rituals for the Accretion of Light*.  I believe they gave it a 8 or 9 out of 10. The album is so damn good and it's basically been on repeat for me the last month or so.  Highly recommend you click [here](https://www.youtube.com/watch?v=tv_yKPChhq4) and check out the song *Mass for Metaphysicians*.
+
 The theme throughout the album regarding the path to transcendence only adds to the enjoyment of the music itself.  I think this will be one of my top 2017 albums for sure.
 
 ![img](https://f4.bcbits.com/img/a1160145689_16.jpg "Eternal Rituals")
@@ -25,7 +25,7 @@ I took a stab at the lyrics to [*Black Sarcophagus*](https://www.youtube.com/wat
 
 The lyrical content makes me think of Fear Factory or Meshuggah's brand of constantly improving thyself.  Where as Fear Factory and Meshuggah go the route of a more cyborg-like reconstruction to the self in order to improve, Junius speaks more to spiriual transcendence by stepping beyond the physical realm.  
 
-```
+```console
 Seal the room
 Light the fire
 Burning clothes

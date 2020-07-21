@@ -25,7 +25,7 @@ What will transpire amongst these pages (in between random gaming relapses) is a
 So, in the inspirational lyrics of _'Rewind'_ ([17:45](http://www.youtube.com/watch?v=A7O6Ozx95P8#t=17m45s)
  of the video) by *Leprous* - The circle (of procrastination) is ending for me.
 
-```
+```console
 Build up, tear down
 Set free, rewind
 Set free, rewind, rewind!

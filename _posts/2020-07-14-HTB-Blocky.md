@@ -63,7 +63,7 @@ The ``/plugins`` page had a couple jar files listed that I could download.
 
 I ran ``strings`` against the jar files quick and found one of them seemed to have references to "my first plugin" so I figured this is the interesting one.
 
-I unzipped the jar file and went to open the ``com/myfirstplugin/BlockyCore.class`` file.  It was clearly not plaintext so I ran ``strings BlockyCore.class `` and noticed a root user followed by its password on the next line:
+I unzipped the jar file and went to open the ``com/myfirstplugin/BlockyCore.class`` file.  It was clearly not plaintext so I ran ``strings BlockyCore.class`` and noticed a root user followed by its password on the next line:
 
 ```bash
 --snipped--
@@ -71,7 +71,7 @@ I unzipped the jar file and went to open the ``com/myfirstplugin/BlockyCore.clas
 Code
         localhost
 root
-8YsqfCTnvxAUeduzjNSXe22 
+8YsqfCTnvxAUeduzjNSXe22
 LineNumberTable
 LocalVariableTable
 --snipped--
@@ -87,7 +87,6 @@ After looking at the PHPMyAdmin console for a bit I saw there was a wordpress us
 
 ![wordpress](/assets/images/HTBoxes/Blocky/wpusers.png)
 
-
 ### Foothold
 
 I couldn't find any clear path to Foothold with an exploit etc. so I decided to take another peak at the official walkthrough.  It looked like there was a complex path (marked **todo** for later) that involved PHPMyAdmin and an easier path.  Cue the facepalm, as I forgot to try the credentials on the other services I found earlier with ``nmap``.
@@ -100,7 +99,7 @@ I didn't need to pivot to any other user, so I just grabbed the user.txt string 
 
 ```bash
 notch@Blocky:~$ sudo -l
-[sudo] password for notch: 
+[sudo] password for notch:
 Matching Defaults entries for notch on Blocky:
     env_reset, mail_badpass, secure_path=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/snap/bin
 
